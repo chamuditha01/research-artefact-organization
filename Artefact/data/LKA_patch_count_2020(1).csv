@@ -1,0 +1,2 @@
+system:index,EIGHT_CONN,HANSEN_ID,MAX_SIZE,MIN_HA,TREECOVER_MIN,ha_in_those_patches,patches_ge_MIN_ha_and_lt_cap,saturated_px,year,.geo
+0,true,UMD/hansen/global_forest_change_2025_v1_13,256,0.5,30,974.2499999999982,638.0,2356.0,2020,"{""type"":""MultiPoint"",""coordinates"":[]}"
